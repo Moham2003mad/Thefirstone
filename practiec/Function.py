@@ -243,7 +243,7 @@ print('\n===========================')
 #         else:
 #             my_set.add(i)
 #     return 'None'
-# s='ali  sara nima hamed  ali sara  hamed'
+# s='ali  sara nima hamed  ali sara hamed'
 # print(g(s))
 print('\n===========================')
 
